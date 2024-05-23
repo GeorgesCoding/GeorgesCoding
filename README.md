@@ -1,11 +1,11 @@
-👋 Hey there, I'm George Chen [@GeorgesCoding](https://github.com/GeorgesCoding)
+# Hey there, I'm George Chen
 
-📗 I'm an Electrical Engineering student at the University of Waterloo
+📗 I'm an Electrical Engineering student at the University of Waterloo.
 
-♟️ Recently finished a [chess game](https://github.com/GeorgesCoding/Chess) made with Python 
+♟️ Recently finished a complete [chess game](https://github.com/GeorgesCoding/Chess) made with Python and the PyGame module.
 
-🔭 Currently learning front-end web development for my [portfolio website](https://github.com/GeorgesCoding/GeorgesCoding.github.io)
+🔭 Currently finalizing my [portfolio website](https://georgescoding.com) built using pure HTML, JS & CSS.
 
-🖥️ Interested in embedded software and machine learning
+🖥️ Interested in electrical hardware/systems and software development.
 
-🎹 Some activities I enjoy are lion dancing, piano and camping
+🎹 Some activities I enjoy are lion dancing, piano and camping.
