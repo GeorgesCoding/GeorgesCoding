@@ -2,7 +2,7 @@
 
 📗 I'm an Electrical Engineering student at the University of Waterloo
 
-🔭 Currently working on my [portfolio website](https://georgescoding.com) 
+🔭 Currently finalizing my [portfolio website](https://georgescoding.com) 
 
 🖥️ Interested in electrical hardware/systems and software development
 
