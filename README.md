@@ -4,8 +4,8 @@
 
 🔭 Recently finished my [portfolio website](https://georgescoding.com) 
 
-🛠️ Currently working on an Arduino project and learning TTL (transistor–transistor logic)
+🛠️ Currently programming a ESP32-CAM board for finger/hand recognition
 
-🖥️ Interested in electrical hardware/systems and software development
+🖥️ Interested in embedded systems and software development
 
 🎹 Some activities I enjoy are lion dancing, piano and camping
