@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br><br>
 
-# 🛠️ Hardware/CAD Design
+# 🛠️ Hardware/CAD Design:
 Altium Designer, KiCad, LT Spice, Fusion 360, AutoCAD, Revit, Ardiuno, STM32, ESP
 <br><br><br>
 
