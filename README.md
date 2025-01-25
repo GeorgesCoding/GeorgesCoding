@@ -33,4 +33,4 @@
 <br><br><br>
 
 # 📄 Resume:
-[<img src="https://img.shields.io/badge/Click%20Me!-blue" target="_blank">](https://georgescoding.com/resume)
+[<img src="https://img.shields.io/badge/Click%20Me!-blue">](https://georgescoding.com/resume)
