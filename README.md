@@ -21,7 +21,6 @@
 ![Altium Designer,](https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=for-the-badge&logo=Altium-Designer&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
 ![LT Spice](https://img.shields.io/badge/LTspice-900028.svg?style=for-the-badge&logo=LTspice&logoColor=white)
-![Fusion 360, ](https://img.shields.io/badge/FusionAuth-F58320.svg?style=for-the-badge&logo=FusionAuth&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050.svg?style=for-the-badge&logo=AutoCAD&logoColor=white)
 ![Revit](https://img.shields.io/badge/Autodesk%20Revit-186BFF.svg?style=for-the-badge&logo=Autodesk-Revit&logoColor=white)
 ![Ardiuno](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
