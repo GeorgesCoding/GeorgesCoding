@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey there, I'm George, welcome to my GitHub!<br><br>
 📕 I'm an Electrical Engineering student at the University of Waterloo<br><br>
-🌐 Currently programming a ESP32-CAM board for hand recognition<br><br>
+🌐 Currently tinkering with ESP32 boards and PCB design<br><br>
 ⚡ Interested in embedded systems and software development<br><br>
 🎹 Some activities I enjoy are lion dancing, piano and camping
 <br><br><br>
